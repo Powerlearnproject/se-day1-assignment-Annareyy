@@ -46,7 +46,6 @@ Unit testing is the testing of individual components or functions of a software.
 Intergartion testing is the testing that ensures combined modules or components work together.
 System testing is wheeby a system is tested as a whole.
 Acceptance testing is the testing of software against user's requirements to ensure it meets user needs.
-
   
 #Part 2: Introduction to AI and Prompt Engineering
 
