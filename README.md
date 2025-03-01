@@ -34,7 +34,7 @@ Quality Assurance Engineer is responsible for testing the systems functionalitie
 Project Manager is responsible for overseeing the project plans, timelines,resource allocationn and execution.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-ntegrated Development Environments (IDEs): Provide essential tools for writing, debugging, and testing code such as Visual Studio Code while Version Control Systems (VCS): Facilitate team collaboration by tracking changes to source code and coordinating work among team members such as Git.
+Integrated Development Environments (IDEs): Provide essential tools for writing, debugging, and testing code such as Visual Studio Code while Version Control Systems (VCS): Facilitate team collaboration by tracking changes to source code and coordinating work among team members such as Git.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Tight deadlines can be ovecomed by breaking down the development process to bits and creating a schedule as to when each part should be completed to ensure deadline is met.
